@@ -1,0 +1,28 @@
+
+.um {
+    width: 400px;
+    height: 400px;
+    
+    margin: auto;
+    margin-top: 5%;
+
+    border: 35px double black;
+
+    background-image: url(mirela1.jpg);
+    box-shadow: inset 12px 5px 23px 12px rgb(252, 0, 0);
+    background-size: contain;
+
+    outline-width: 20px;
+    outline-style: solid;
+    outline-color: rgb(175, 28, 233);
+    outline-offset: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text{
+    color: yellow;
+    font-size: 3rem;
+}
